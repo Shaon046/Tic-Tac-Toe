@@ -1,0 +1,10 @@
+.reset{
+    border: none;
+    border-radius: 0.5rem;
+    background: blue;
+    font-size: 2rem;
+    color: aliceblue;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    display: block;
+}
